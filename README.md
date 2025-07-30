@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokshkimta21)](https://github.com/mokshkimta21/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokshkimta21&show_icons=true&theme=radical)
 ## Hi there 👋
 - 🔭 I’m currently working on my personal Portfolio
 - 🌱 I’m currently learning C++ anf Javacript
