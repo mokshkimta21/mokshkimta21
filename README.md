@@ -25,6 +25,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7007A&width=435&lines=I+also+like+cars)](https://git.io/typing-svg)
-
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312vcngwmxkdrlcddjdsuo4cpwuu)
