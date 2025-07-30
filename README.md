@@ -1,4 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokshkimta21&show_icons=true&theme=radical)
+![Moksh Kimta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokshkimta21&show_icons=true&theme=radical)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA
 ## Hi there 👋
 - 🔭 I’m currently working on my personal Portfolio
 - 🌱 I’m currently learning C++ anf Javacript
