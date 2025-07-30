@@ -1,5 +1,6 @@
 ![Moksh Kimta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokshkimta21&show_icons=true&theme=radical)
-https://github-profile-trophy.vercel.app/?username=mokshkimta21&rank=S,AAA
+![Moksh Kimta's Trophies](https://github-profile-trophy.vercel.app/?username=mokshkimta21&title=Followers)
+
 ## Hi there 👋
 - 🔭 I’m currently working on my personal Portfolio
 - 🌱 I’m currently learning C++ anf Javacript
