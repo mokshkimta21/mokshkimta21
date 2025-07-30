@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30F700&width=435&lines=Webdev+Freelancer)](https://git.io/typing-svg)
+
 ## Hi there 👋
 - 🔭 I’m currently working on my personal Portfolio
 - 🌱 I’m currently learning C++ anf Javacript
@@ -17,8 +19,17 @@
 </p>
 
 
+<div style="display:flex; flex-direction:column; gap:20px;" justify-content:center;align-items:center;>
 ![Moksh Kimta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokshkimta21&show_icons=true&theme=radical)
 
 ![Moksh Kimta's Trophies](https://github-profile-trophy.vercel.app/?username=mokshkimta21&row=2&column=3)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7007A&width=435&lines=I+also+like+cars)](https://git.io/typing-svg)
+
+</div>
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&unique=true)
