@@ -19,7 +19,6 @@
 </p>
 
 
-<div style="display:flex; flex-direction:column; gap:20px;" justify-content:center;align-items:center;>
 ![Moksh Kimta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokshkimta21&show_icons=true&theme=radical)
 
 ![Moksh Kimta's Trophies](https://github-profile-trophy.vercel.app/?username=mokshkimta21&row=2&column=3)
@@ -30,6 +29,3 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7007A&width=435&lines=I+also+like+cars)](https://git.io/typing-svg)
 
-</div>
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&unique=true)
