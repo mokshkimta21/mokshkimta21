@@ -1,5 +1,5 @@
 ![Moksh Kimta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokshkimta21&show_icons=true&theme=radical)
-![Moksh Kimta's Trophies](https://github-profile-trophy.vercel.app/?username=mokshkimta21&title=Followers)
+![Moksh Kimta's Trophies](https://github-profile-trophy.vercel.app/?username=mokshkimta21&title=Stars,Followers)
 
 ## Hi there 👋
 - 🔭 I’m currently working on my personal Portfolio
