@@ -22,6 +22,5 @@
 
 ![Moksh Kimta's Trophies](https://github-profile-trophy.vercel.app/?username=mokshkimta21&row=2&column=3)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7007A&width=435&lines=I+also+like+cars)](https://git.io/typing-svg)
